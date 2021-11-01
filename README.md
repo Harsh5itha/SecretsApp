@@ -10,3 +10,4 @@ Submited Secrets: <img src = "https://user-images.githubusercontent.com/45786603
 After Logout: <img src = "https://user-images.githubusercontent.com/45786603/139642355-705b5b72-4dc4-4002-a142-141bbb23c92d.png">
 Login Page: <img src = "https://user-images.githubusercontent.com/45786603/139642626-8f8346f8-73c6-4528-b393-57e6ca30bf2d.png">
 Submitting another secret after login <img src = "https://user-images.githubusercontent.com/45786603/139643102-36f55d22-1842-4096-addb-72bddb37959d.png">
+Database entries: <img src = "https://user-images.githubusercontent.com/45786603/139643909-010a2c50-9f75-46f4-9163-9a5613da0da9.png">
